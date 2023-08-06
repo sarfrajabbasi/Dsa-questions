@@ -96,6 +96,7 @@ function reverseNum(num){
 reverseNum(54321)
 
 // Inverse of a number:--
+
 // --> The ineverse of the number is defined as the number created by interchanging the face value and index of digit from 1 to 5.
 // valid num:-- 624135,81456273,426135 etc
 // invaild num:-- 139,7421357.
